@@ -1,0 +1,69 @@
+
+                         MODELLER 9.25, 2020/09/03, r11894
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2020 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Linux arpeggio 4.18.0-193.el8.x86_64 x86_64
+Date and time of compilation         : 2020/09/03 15:19:53
+MODELLER executable type             : x86_64-intel8
+Job starting time (YY/MM/DD HH:MM:SS): 2022/02/17 23:19:33
+
+openf___224_> Open           $(LIB)/restyp.lib
+openf___224_> Open           ${MODINSTALL9v25}/modlib/resgrp.lib
+rdresgr_266_> Number of residue groups:        2
+openf___224_> Open           ${MODINSTALL9v25}/modlib/sstruc.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       191566     187.076     0.183
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       192094     187.592     0.183
+openf___224_> Open           ${MODINSTALL9v25}/modlib/resdih.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       240694     235.053     0.230
+rdrdih__263_> Number of dihedral angle types         :        9
+              Maximal number of dihedral angle optima:        3
+              Dihedral angle names                   :  Alph Phi Psi Omeg chi1 chi2 chi3 chi4 chi5
+openf___224_> Open           ${MODINSTALL9v25}/modlib/radii.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       253994     248.041     0.242
+openf___224_> Open           ${MODINSTALL9v25}/modlib/radii14.lib
+openf___224_> Open           ${MODINSTALL9v25}/modlib/af_mnchdef.lib
+rdwilmo_274_> Mainchain residue conformation classes:  APBLE
+openf___224_> Open           ${MODINSTALL9v25}/modlib/mnch.lib
+rdclass_257_> Number of classes:        5
+openf___224_> Open           ${MODINSTALL9v25}/modlib/mnch1.lib
+openf___224_> Open           ${MODINSTALL9v25}/modlib/mnch2.lib
+openf___224_> Open           ${MODINSTALL9v25}/modlib/mnch3.lib
+openf___224_> Open           ${MODINSTALL9v25}/modlib/xs4.mat
+rdrrwgh_268_> Number of residue types:       21
+openf___224_> Open           alignment.ali
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       265791     259.562     0.253
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       267241     260.978     0.255
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       270141     263.810     0.258
+pdbnam_____E> Filename for PDB code not found: final001
+              Directories: .:final001.pdb
+              Extensions : :.atm:.pdb:.ent:.cif:.crd
+              (Also tried prepending 'pdb', looking for .Z, .gz, .bz2, .7z, .xz,
+              and trying PDB-style subdirectories - e.g. ab for pdb1abc.ent)
+
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       272383     265.999     0.260
